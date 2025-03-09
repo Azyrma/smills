@@ -1,0 +1,40 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/Azyrma/smills"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "E-Mail"
+name = "E-Mail"
+url = "mailto:severin.mills@vis.ethz.ch"
+
+[social.params]
+icon = "mail"
+
+[[social]]
+identifier = "LinkedIn"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/severin-mills-4b9609220/"
+
+[social.params]
+icon = "brand-linkedin"
+
+[[social]]
+identifier = "Discord"
+name = "Discord"
+url = "https://discord.gg/EGunWd3S"
+
+[social.params]
+icon = "brand-discord"

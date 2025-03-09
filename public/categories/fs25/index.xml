@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>FS25 on Severin Mills</title>
+        <link>http://localhost:1313/categories/fs25/</link>
+        <description>Recent content in FS25 on Severin Mills</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="http://localhost:1313/categories/fs25/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Information Retrieval - Spring 25</title>
+        <link>http://localhost:1313/p/infret/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/infret/</guid>
+        <description>&lt;h2 id=&#34;general-information&#34;&gt;General Information
+&lt;/h2&gt;&lt;p&gt;The exercise session takes place at &lt;strong&gt;16:15 - 17:00&lt;/strong&gt; in &lt;strong&gt;CAB G 51&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;exercises&#34;&gt;Exercises
+&lt;/h3&gt;&lt;p&gt;There are weekly quizzes and Jupiter Notebooks that you may solve as an exercise. I would recommend to do the weekly quizzes at least, since they will give you the most benefit for the exam.&lt;/p&gt;
+&lt;h3 id=&#34;bonus-points&#34;&gt;Bonus points
+&lt;/h3&gt;&lt;p&gt;There is an opportunity to receive bonus points, up to 0.25, which will count towards your final grade. The bonus consists of three of the weekly quizzes, from which you will need to get the required points from two of them, on the dates specified below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides
+&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Week&lt;/th&gt;
+          &lt;th&gt;Keyword(s)&lt;/th&gt;
+          &lt;th&gt;Slides&lt;/th&gt;
+          &lt;th&gt;Extras&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;01&lt;/td&gt;
+          &lt;td&gt;Introduction&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;02&lt;/td&gt;
+          &lt;td&gt;Boolean Retrieval&lt;/td&gt;
+          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;./file/Ex_session_week2.pdf&#34; &gt;infret_week2&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://create.kahoot.it/details/ed2e86e1-3521-45f9-8edc-8d1693f8bae4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Kahoot&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;03&lt;/td&gt;
+          &lt;td&gt;Term Vocabulary&lt;/td&gt;
+          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;./file/Ex_session_week3.pdf&#34; &gt;infret_week3&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://create.kahoot.it/details/cbb1ed53-a726-44d0-ab70-0a976c7b6505&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Kahoot&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

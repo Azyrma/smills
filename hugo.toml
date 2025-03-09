@@ -1,0 +1,4 @@
+baseURL = 'https://smills.ch/'
+languageCode = 'en-us'
+title = 'Severin Mills'
+theme = ["github.com/CaiJimmy/hugo-theme-stack/v3"]
