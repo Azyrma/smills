@@ -6,7 +6,7 @@
         <description>Recent content in Posts on Severin Mills</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Welcome</title>
         <link>http://localhost:1313/p/welcome/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -17,9 +17,17 @@
 </description>
         </item>
         <item>
+        <title>Einführung in die Programmierung - HS25</title>
+        <link>http://localhost:1313/p/eprog/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/eprog/</guid>
+        <description>&lt;img src="http://localhost:1313/p/eprog/pissaro_winter.jpg" alt="Featured image of post Einführung in die Programmierung - HS25" /&gt;</description>
+        </item>
+        <item>
         <title>Information Retrieval - Spring 25</title>
         <link>http://localhost:1313/p/infret/</link>
-        <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/p/infret/</guid>
         <description>&lt;img src="http://localhost:1313/p/infret/poppies_monet.jpg" alt="Featured image of post Information Retrieval - Spring 25" /&gt;&lt;h2 id=&#34;general-information&#34;&gt;General Information

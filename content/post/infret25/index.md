@@ -1,5 +1,5 @@
 ---
-title: "Information Retrieval - Spring 25"
+title: "Information Retrieval - FS25"
 description: Here you can find all relevant data for my IR exercise sessions. If you spot any mistakes or have any suggestions for improvements, don't hesitate to contact me.
 layout: "infret"
 slug: "infret"
@@ -10,8 +10,8 @@ menu:
         weight: 1
         params: 
             icon: database
-date: 2025-03-09
 image: poppies_monet.jpg
+weight: 2
 ---
 
 ## General Information
