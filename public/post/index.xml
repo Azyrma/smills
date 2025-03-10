@@ -12,8 +12,8 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/p/welcome/</guid>
-        <description>&lt;img src="http://localhost:1313/p/welcome/cover.jpg" alt="Featured image of post Welcome" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://n.ethz.ch/~smills/infret&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Information Retrieval&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;img src="http://localhost:1313/p/welcome/thunderstorm.jpg" alt="Featured image of post Welcome" /&gt;&lt;blockquote&gt;
+&lt;p&gt;Photo: Thunderstorm over Dordrecht by Aelbert Cuyp, 1645&lt;/p&gt;&lt;/blockquote&gt;
 </description>
         </item>
         <item>
@@ -22,7 +22,7 @@
         <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/p/infret/</guid>
-        <description>&lt;h2 id=&#34;general-information&#34;&gt;General Information
+        <description>&lt;img src="http://localhost:1313/p/infret/poppies_monet.jpg" alt="Featured image of post Information Retrieval - Spring 25" /&gt;&lt;h2 id=&#34;general-information&#34;&gt;General Information
 &lt;/h2&gt;&lt;p&gt;The exercise session takes place at &lt;strong&gt;16:15 - 17:00&lt;/strong&gt; in &lt;strong&gt;CAB G 51&lt;/strong&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;exercises&#34;&gt;Exercises
 &lt;/h3&gt;&lt;p&gt;There are weekly quizzes and Jupiter Notebooks that you may solve as an exercise. I would recommend to do the weekly quizzes at least, since they will give you the most benefit for the exam.&lt;/p&gt;
@@ -64,6 +64,8 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Photo: Poppy field near Vétheuil by Claude Monet, ca. 1879&lt;/p&gt;&lt;/blockquote&gt;
 </description>
         </item>
         
