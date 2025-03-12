@@ -7,12 +7,14 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Welcome</title>
-        <link>http://localhost:1313/p/welcome/</link>
+        <title>About Me</title>
+        <link>http://localhost:1313/p/aboutme/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/welcome/</guid>
-        <description>&lt;img src="http://localhost:1313/p/welcome/thunderstorm.jpg" alt="Featured image of post Welcome" /&gt;&lt;blockquote&gt;
+        <guid>http://localhost:1313/p/aboutme/</guid>
+        <description>&lt;img src="http://localhost:1313/p/aboutme/thunderstorm.jpg" alt="Featured image of post About Me" /&gt;&lt;p&gt;I am a fourth semester BSc student and I am currently a teaching assistant in Information Retrieval and also a Board Member in &lt;a class=&#34;link&#34; href=&#34;vis.ethz.ch&#34; &gt;VIS&lt;/a&gt;. Apart from ETH, I like to go skiing, trail-running and play video games. Don&amp;rsquo;t ask me how I have time for all of this (I don&amp;rsquo;t).&lt;/p&gt;
+&lt;p&gt;Feel free to reach out to me, whether it&amp;rsquo;s about my exercise sessions (feedback is much appreciated), ETH, VIS, life or anything else, really. You can usually find me in oVIS (CAB E 31) as well.&lt;/p&gt;
+&lt;blockquote&gt;
 &lt;p&gt;Photo: Thunderstorm over Dordrecht by Aelbert Cuyp, 1645&lt;/p&gt;&lt;/blockquote&gt;
 </description>
         </item>
@@ -70,15 +72,6 @@
 &lt;/table&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Photo: Poppy field near Vétheuil by Claude Monet, ca. 1879&lt;/p&gt;&lt;/blockquote&gt;
-</description>
-        </item>
-        <item>
-        <title>Links</title>
-        <link>http://localhost:1313/links/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/links/</guid>
-        <description>&lt;p&gt;Here is a link collection.&lt;/p&gt;
 </description>
         </item>
         <item>

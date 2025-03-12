@@ -7,11 +7,11 @@ categories:
     - FS25
 menu:
     main:
-        weight: 1
+        weight: 3
         params: 
             icon: database
 image: poppies_monet.jpg
-weight: 2
+weight: 3
 ---
 
 ## General Information
