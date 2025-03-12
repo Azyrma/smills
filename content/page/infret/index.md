@@ -25,7 +25,9 @@ There are weekly quizzes and Jupiter Notebooks that you may solve as an exercise
 
 There is an opportunity to receive bonus points, up to 0.25, which will count towards your final grade. The bonus consists of three of the weekly quizzes, from which you will need to get the required points from two of them, on the dates specified below:
 
-- 
+- 21.03 Tolerant Retrieval
+- 18.04 Index Compression
+- 02.05 Vector Space Model
 
 ## Slides
 
