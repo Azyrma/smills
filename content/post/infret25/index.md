@@ -16,7 +16,7 @@ weight: 3
 
 ## General Information
 
-The exercise session takes place at **16:15 - 17:00** in **CAB G 51**.
+The exercise session takes place at **16:15 - 17:00** in **HG F 26.5**.
 
 The book "Introduction to Information Retrieval" by C.D. Manning, P. Raghavan and H. Schütze can be found [here](./file/irbookonlinereading.pdf). Personally, I found it quite useful if you want a different view / explanation on the topics discussed in the lectures, but it is not required for passing the course. 
 
