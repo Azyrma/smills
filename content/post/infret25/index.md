@@ -40,6 +40,6 @@ It is possible to pass the quizzes without solving the Jupyter-Notebook, but I w
 | ---- | ---------- | ------ | ------ |
 |  28.02  |   Introduction    | - | - |
 |  07.03  | Boolean Retrieval | [infret_week2](./file/Ex_session_week2.pdf) | [Kahoot](https://create.kahoot.it/details/ed2e86e1-3521-45f9-8edc-8d1693f8bae4)
-|  14.03  | Term Vocabulary   | [infret_week3](./file/Ex_session_week3.pdf) | [Kahoot](https://create.kahoot.it/details/cbb1ed53-a726-44d0-ab70-0a976c7b6505)
+|  14.03  | Term Vocabulary   | [infret_week3](./file/infret_week3.pdf) | [Kahoot](https://create.kahoot.it/details/cbb1ed53-a726-44d0-ab70-0a976c7b6505)
 
 > Photo: Poppy field near Vétheuil by Claude Monet, ca. 1879
