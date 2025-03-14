@@ -32,7 +32,7 @@ There is an opportunity to receive bonus points, up to 0.25, which will count to
 - 18.04 Index Compression
 - 02.05 Vector Space Model
 
-It is possible to pass the quizzes without solving the Jupyter-Notebook, but I would recommend to solve it in the week with the bonuses. The time limit for each quiz is one week, you have **one attempt**.
+It is possible to pass the quizzes without solving the Jupyter-Notebook, but I would recommend to solve it in the week with the bonuses. The time limit for each quiz is one week, you have **two attempts**.
 
 ## Slides
 
